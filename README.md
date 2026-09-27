@@ -64,4 +64,4 @@ Published to `chip_temp_topic` as JSON:
 
 ## License
 
-Add a license of your choice (e.g., MIT) here.
+MIT Licence
